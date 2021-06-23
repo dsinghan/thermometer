@@ -1,6 +1,10 @@
 NAME: Dhruv Singhania
 EMAIL: singhania_dhruv@yahoo.com
-ID: 105125631
+
+Thermometer
+
+Description:
+	This application reads and prints thermometer input from a beaglebone. Its output can be controlled from different commands outline within the spec.
 
 Included files:
 	Makefile - Makefile to build program, test program, delete program and create deliverable
